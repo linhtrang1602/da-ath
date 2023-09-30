@@ -1,0 +1,218 @@
+.header-child {
+  position: absolute;
+  top: 97.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--textcolor);
+  box-sizing: border-box;
+  width: 1441px;
+  height: 1px;
+}
+.epback-icon {
+  position: absolute;
+  top: 31px;
+  left: 58px;
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.chatbot-ai {
+  position: absolute;
+  top: 20px;
+  left: 626px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 212px;
+  height: 58px;
+}
+.epback-parent {
+  position: absolute;
+  top: 0;
+  left: 21px;
+  width: 878px;
+  height: 98px;
+}
+.header1 {
+  top: 0;
+  width: 1440px;
+  height: 98px;
+}
+.group-child,
+.header,
+.header1 {
+  position: absolute;
+  left: 0;
+}
+.header {
+  top: 0;
+  width: 1440px;
+  height: 98px;
+  text-align: center;
+  font-size: var(--semib-32-size);
+}
+.group-child {
+  top: 370.61px;
+  width: 409.45px;
+  height: 44.39px;
+}
+.artboard-4-1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 186.97px);
+  width: 360.63px;
+  height: 370.61px;
+  object-fit: cover;
+}
+.vector-parent {
+  position: absolute;
+  top: 177px;
+  left: 515px;
+  width: 409.45px;
+  height: 415px;
+}
+.hello-there-how {
+  position: relative;
+  font-weight: 500;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #484848;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.ans {
+  position: absolute;
+  top: 644px;
+  left: 79px;
+  border-radius: var(--br-31xl) 0 var(--br-31xl) 0;
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xl) var(--padding-11xl);
+}
+.thanks-for-your {
+  margin: 0;
+}
+.making-new-paper {
+  margin-bottom: 0;
+}
+.making-new-paper-from-unused-p {
+  margin: 0;
+  padding-left: 32px;
+}
+.ans1 {
+  position: absolute;
+  top: 1281px;
+  left: 79px;
+  border-radius: var(--br-31xl) 0 var(--br-31xl) 0;
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xl) var(--padding-11xl);
+  font-size: var(--font-inherit);
+  font-family: var(--font-inherit);
+}
+.i-want-to {
+  position: relative;
+  font-weight: 500;
+}
+.ans2 {
+  position: absolute;
+  top: 763px;
+  left: 804px;
+  border-radius: 0 var(--br-31xl) 0 var(--br-31xl);
+  background-color: #008e18;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xl) var(--padding-11xl);
+  color: var(--color-white);
+}
+.chatbot-child,
+.chatbot-inner,
+.chatbot-item {
+  position: absolute;
+  top: 852px;
+  left: 899px;
+  border-radius: var(--br-3xs);
+  width: 463px;
+  height: 331px;
+  object-fit: cover;
+}
+.chatbot-inner,
+.chatbot-item {
+  top: 1486px;
+  left: 84px;
+}
+.chatbot-inner {
+  top: 1837px;
+}
+.ask-me-anything {
+  position: absolute;
+  top: 2413px;
+  left: 445px;
+  font-weight: 500;
+  color: var(--textcolor);
+}
+.frame-child {
+  position: relative;
+  border-top: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 1441px;
+  height: 1px;
+}
+.scan-icon,
+.vuesaxlinearmicrophone-2-icon {
+  position: relative;
+  width: 52px;
+  height: 52px;
+}
+.scan-icon {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-item {
+  position: relative;
+  border-radius: var(--br-31xl);
+  border: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 775px;
+  height: 91px;
+}
+.frame-inner {
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+.line-parent,
+.vuesaxlinearmicrophone-2-parent {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.vuesaxlinearmicrophone-2-parent {
+  flex-direction: row;
+  gap: var(--gap-31xl);
+}
+.line-parent {
+  position: absolute;
+  top: 2357px;
+  left: 0;
+  flex-direction: column;
+  gap: 19px;
+}
+.chatbot {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2502px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: #212121;
+  font-family: var(--font-inter);
+}
